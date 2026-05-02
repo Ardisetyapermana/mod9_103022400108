@@ -1,0 +1,15 @@
+D:\New folder\Modul9_103022400108\bin\Debug\net10.0\Modul9_103022400108.exe
+D:\New folder\Modul9_103022400108\bin\Debug\net10.0\Modul9_103022400108.deps.json
+D:\New folder\Modul9_103022400108\bin\Debug\net10.0\Modul9_103022400108.runtimeconfig.json
+D:\New folder\Modul9_103022400108\bin\Debug\net10.0\Modul9_103022400108.dll
+D:\New folder\Modul9_103022400108\bin\Debug\net10.0\Modul9_103022400108.pdb
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.AssemblyInfoInputs.cache
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.AssemblyInfo.cs
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.csproj.CoreCompileInputs.cache
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.sourcelink.json
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.dll
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\refint\Modul9_103022400108.dll
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.pdb
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\Modul9_103022400108.genruntimeconfig.cache
+D:\New folder\Modul9_103022400108\obj\Debug\net10.0\ref\Modul9_103022400108.dll

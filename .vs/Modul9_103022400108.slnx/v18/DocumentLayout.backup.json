@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|d:\\new folder\\modul9_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|d:\\new folder\\modul9_103022400108\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|solutionrelative:banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|d:\\new folder\\modul9_103022400108\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|d:\\new folder\\modul9_103022400108\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|solutionrelative:confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|d:\\new folder\\modul9_103022400108\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7778E4E2-7F3B-5089-6604-30B1ED7ED23C}|Modul9_103022400108.csproj|solutionrelative:transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,61 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\New folder\\Modul9_103022400108\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T06:34:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Confirmation.cs",
+              "DocumentMoniker": "D:\\New folder\\Modul9_103022400108\\Confirmation.cs",
+              "RelativeDocumentMoniker": "Confirmation.cs",
+              "ToolTip": "D:\\New folder\\Modul9_103022400108\\Confirmation.cs",
+              "RelativeToolTip": "Confirmation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T07:10:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\New folder\\Modul9_103022400108\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "D:\\New folder\\Modul9_103022400108\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T07:17:00.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\New folder\\Modul9_103022400108\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "BankTransferConfig.cs",
+              "ToolTip": "D:\\New folder\\Modul9_103022400108\\BankTransferConfig.cs",
+              "RelativeToolTip": "BankTransferConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T06:55:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "D:\\New folder\\Modul9_103022400108\\Transfer.cs",
+              "RelativeDocumentMoniker": "Transfer.cs",
+              "ToolTip": "D:\\New folder\\Modul9_103022400108\\Transfer.cs",
+              "RelativeToolTip": "Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T07:15:07.687Z",
               "EditorCaption": ""
             }
           ]
